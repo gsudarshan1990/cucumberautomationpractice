@@ -1,0 +1,23 @@
+Practical Exercise:
+
+WebSite : http://automationpractice.com/index.php
+
+Home Page
+
+1. Verify Tabs - Women, Dresses and T-shirt are displayed on Home Page.
+2. Verify Correspoding page been navigated on selecting these tabs
+3. Verify Subscription message is displayed after entering valid e-mail in Newsletter follow up.
+
+
+
+Dresses Page
+
+1. Verify Size – L, M and S is displayed
+2. Verify Respective Matching result cound and product count is being displayed
+3. Add first product and verify its added to cart
+4. Ascending Order of List
+
+Product Details Page
+
+1.	Verify Tweet, Share is displayed in product details page
+2.	Verify Product Description is displayed .
